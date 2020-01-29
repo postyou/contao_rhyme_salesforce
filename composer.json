@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": ">=5.3.2",
-        "contao/core": "4.4.*",
+        "contao/core": "^4.1",
         "phpforce/soap-client": "dev-partner",
         "doctrine/collections": ">=1.3"
     },
