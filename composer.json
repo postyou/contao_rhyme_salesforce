@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": ">=5.3.2",
-        "contao/core": "^4.1",
+        "contao/core-bundle": "^4.1",
         "postyou/soap-client": "0.2.0",
         "doctrine/collections": ">=1.3"
     },
