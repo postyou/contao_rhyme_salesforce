@@ -41,10 +41,5 @@
     "support": {
         "issues": "https://github.com/postyou/contao_rhyme_salesforce_bundle/issues",
         "source": "https://github.com/postyou/contao_rhyme_salesforce_bundle"
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true,
-    "config": {
-        "preferred-install": "dist"
     }
 }
